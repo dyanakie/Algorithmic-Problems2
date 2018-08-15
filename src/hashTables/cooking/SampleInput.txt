@@ -1,0 +1,26 @@
+
+INPUT
+
+2
+1:cups:Sugar
+1.006:ls:Old milK
+2
+800:mls:old MILK
+1.5:cups:sugar
+
+OUTPUT
+
+0.21:ls:Old milK
+
+
+INPUT
+
+2
+12:ls:water
+12000:mls:Water
+1
+12:cups:coffee
+
+OUTPUT
+
+24.00:ls:water
