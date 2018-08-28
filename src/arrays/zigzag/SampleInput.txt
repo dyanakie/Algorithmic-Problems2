@@ -1,0 +1,21 @@
+
+INPUT
+
+3 4
+
+OUTPUT
+
+55
+
+
+INPUT
+
+5 6
+
+OUTPUT
+
+297
+
+
+
+
